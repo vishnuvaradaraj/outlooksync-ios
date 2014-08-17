@@ -1,0 +1,8 @@
+{
+   "result":{
+      "App":"ParabayOrg-Outlook",
+      "Feature":"RemoveAds",
+      "key":"3cbad669-878a-4eca-a9fb-3cf95e020d03",
+      "expires":"2009-11-10T00:00:00+00:00"
+   }
+}
